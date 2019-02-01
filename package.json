@@ -1,0 +1,23 @@
+{
+  "name": "mtm6330-week-4-020",
+  "version": "1.0.0",
+  "description": "making a package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pate0564/MTM6330-Week-4-020.git"
+  },
+  "author": "\u001b[A\u001b[BPayal Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pate0564/MTM6330-Week-4-020/issues"
+  },
+  "homepage": "https://github.com/pate0564/MTM6330-Week-4-020#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
